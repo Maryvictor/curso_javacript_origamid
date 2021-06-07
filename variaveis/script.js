@@ -1,9 +1,9 @@
-var name = "Maria";
-var idade = 28;
-var comidaFavorita;
+let name = "Maria";
+let idade = 28;
+let comidaFavorita;
 comidaFavorita = "Hambúger";
-var doce;
-var fruta;
-var corDosOlhos;
-var estadoCivil;
-var corDoCabelo;
+let sobremesa;
+let fruta;
+let corDosOlhos;
+let estadoCivil;
+let corDoCabelo;
